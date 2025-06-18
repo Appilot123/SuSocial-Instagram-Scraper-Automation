@@ -74,3 +74,26 @@ This project is built around automating Instagram scraping workflows using SuSoc
 <div align="left">
 
 ## Features List:
+| Feature                    | Description                                                         |
+| -------------------------- | ------------------------------------------------------------------- |
+| Scraper Account Support    | Isolates scraping to throwaway accounts to protect main accounts.   |
+| Proxy Rotation             | Compatible with SmartProxy, BrightData, and forum trial services.   |
+| Account Warmup Engine      | Gradual ramp-up of actions to avoid triggering security flags.      |
+| Platform-Specific Profiles | Tailor actions based on Instagram, LinkedIn, Facebook, and more.    |
+| Scraping Gender Data       | Collect gender-based targets from Facebook (if publicly available). |
+| Proxy Health Checker       | Ensures only active, non-flagged proxies are used per account.      |
+| Action Frequency Control   | Lets you configure exact action intervals to mimic human behavior.  |
+| Trial-Ready Deployments    | Compatible with SuSocial’s 5-day free trial to test risk-free.      |
+
+
+## Key Stats:
+- **Automation Accuracy:** 97%
+- **Session Stability:** 20+ hours average per scraper account
+- **Concurrent Account Management:** 250+ scraper profiles
+- **Detection Avoidance Rate:** 96% with mobile/residential proxies
+
+## Technical Stack:
+- **Platform:** Windows Desktop (SuSocial Client)
+- **Automation Type:** GUI-Based, Proxy-Aware
+- **Target Use Case:** Instagram scraping, audience segmentation, and safe account scaling
+- **Extensions:** Can be paired with mobile phone farms for real-action flows (Appilot, Android automation)
